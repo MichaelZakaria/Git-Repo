@@ -6,6 +6,5 @@ class HelloITI{
     }
     func printHelloGit(){
         print("Hello Git")
-        print("Hello again")
     }
 }
